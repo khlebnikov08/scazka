@@ -1,0 +1,7 @@
+{
+  "name": "Native Fairy Tale",
+  "description": "A comforting bedtime story application featuring parental voice cloning and AI-generated tales.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
